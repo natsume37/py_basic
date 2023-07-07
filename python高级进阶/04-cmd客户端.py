@@ -14,8 +14,15 @@ while True:
     # 粘包问题解决
     # 拿到数据总长度
 
-    header = client.recv(8)
-    # print(res.decode('utf-8'))
-    res = client.recv(int(header))
-    print(res.decode('utf-8'))
+    data_size = int(client.recv(8).decode('utf-8'))
+    recv_size = 0
+    data = b''
+    while recv_size < data_size:
+        res = client.recv(1024)
+        recv_size += len(res)
+        data += res
+    print(data.decode('utf-8'))
+    print(len(data))
+
+
 

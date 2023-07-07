@@ -6,8 +6,10 @@ import os
 import socket
 import json
 
+
+
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client.connect(('127.0.0.1', 8089))
+client.connect(('192.168.25.215', 5001))
 while True:
     cmd = input('请输入终端命令>>>').lower().strip()
     if not cmd:

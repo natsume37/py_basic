@@ -8,7 +8,7 @@ import socket
 sk = socket.socket(socket.AF_INET, socket.SOCK_STREAM)   # 流式协议（tcp协议）
 
 # 2、开始建立链接
-sk.connect(('127.0.0.1', 5000))
+sk.connect(('124.222.68.76', 5001))
 
 # 3、传输数据
 while True:

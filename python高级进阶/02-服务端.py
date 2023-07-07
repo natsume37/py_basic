@@ -8,7 +8,7 @@ import socket
 sk = socket.socket(socket.AF_INET, socket.SOCK_STREAM)   # 流式协议（tcp协议）
 
 # 2、绑定地址
-sk.bind(('127.0.0.1', 5000))
+sk.bind(('0.0.0.0', 5001))
 
 # 3、监听链接请求（开始营业）
 sk.listen(5)  # 半连接池大小、等待区

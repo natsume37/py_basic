@@ -8,8 +8,10 @@ import subprocess
 import os
 from datetime import datetime
 
+
+
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server.bind(('127.0.0.1', 8089))
+server.bind(('192.168.25.215', 5001))
 server.listen(5)
 print('服务器已启动！')
 
