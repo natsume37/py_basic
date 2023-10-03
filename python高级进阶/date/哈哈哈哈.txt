@@ -1,0 +1,360 @@
+这是一个测试文件！！
+JavaScript
+JavaScript 是一种高级编程语言，是万维网的核心技术之一。97.8% 的网站都将其用作客户端编程语言。JavaScript 最初仅用于开发 Web 浏览器，但现在它们也用于服务器端网站部署和非 Web 浏览器应用程序。
+Javascript 创建于 1995 年，最初被称为 LiveScript。不过Java当时是一门新潮的语言，所以被标榜为Java的“弟弟”。随着时间的推移，JavaScript 成为了一种完全独立的语言。如今，JavaScript 经常与 Java 混淆，尽管它们之间有一些相似之处，但这两种语言是截然不同的，风格也完全不一样。
+JavaScript 是世界上最流行的编程语言，在各个企业或者组织中都有很高的需求。
+Python
+Python 是当今最流行的编程语言之一，由于其可读性强，初学者很容易学习。它是一种免费的开源编程语言，具有广泛的支持模块和社区开发、易于与 Web 服务集成、用户友好的数据结构和基于 GUI 的桌面应用程序。它是机器学习和深度学习应用程序的流行编程语言。
+Python 用于开发 2D 成像和 3D 动画包，如Blender、Inkscape 和 Autodesk。它还被用于创建流行的视频游戏，包括 Civilization IV、Vegas Trike 和 Toontown。Python 用于 FreeCAD 和 Abacus 等科学和计算应用程序，以及 YouTube、Quora、Pinterest 和 Instagram 等流行网站。
+Go
+Go是 Google 于 2007 年为 API 和 Web 应用程序开发的。由于其简单性以及处理多核和网络系统以及大量代码库的能力，Go 最近已成为增长最快的编程语言之一，是区块链项目的青睐的编程语言之一。
+Go，也称为Golang，是为了满足从事大型项目的程序员的需求而创建的。由于其简单现代的结构和熟悉的语法，它在许多大型 IT 公司中广受欢迎。
+使用 Go 作为编程语言的公司包括 Google、Uber、Twitch 和 Dropbox 等。由于其敏捷性和性能，Go 在数据科学家中也越来越受欢迎。
+Java
+Java是当今最流行的编程语言之一。
+由甲骨文公司所有，这种具有面向对象结构的通用编程语言已成为应用程序的标准，无论平台如何（例如，Mac、Windows、Android、iOS 等），因为它的 Write Once，随处运行 (WORA) 功能。
+因此，Java 因其跨平台（从大型机数据中心到智能手机）的可移植性而得到认可。如今，有超过 30 亿台设备运行使用 Java 构建的应用程序。
+Java广泛用于 Web 和应用程序开发以及大数据。Java 还用于多个流行网站的后端，包括 Google、Amazon、Twitter 和 YouTube。它还广泛用于数百种应用程序中。
+Spring、Struts 和Hibernate等新的 Java 框架也很受欢迎。全球有数百万 Java 开发人员，有数百种学习 Java 的方法。此外，Java 程序员拥有广泛的在线社区并相互支持以解决问题。
+Kotlin
+Kotlin是一种通用编程语言，最初由 JetBrains 于 2011 年开发并发布为 Project Kotlin。第一个版本于 2016 年正式发布。它可与 Java 互操作并支持函数式编程语言。
+Kotlin 广泛用于 Android 应用程序、Web 应用程序、桌面应用程序和服务器端应用程序开发。Kotlin 被构建为比 Java 更好，使用这种语言的人对此深信不疑。
+大多数 Google 应用程序都是基于Kotlin的。一些使用 Kotlin 作为其编程语言的公司包括 Coursera、Pinterest 和 PostMates 等。
+PHP
+PHP是一种创建于 1990 年的开源编程语言。许多 Web 开发人员发现学习 PHP 必不可少，因为这种语言用于构建 Internet 上超过 80% 的网站，包括 Facebook 和 Yahoo 等知名网站。
+程序员主要使用PHP主要是编写服务器端脚本。但开发人员也可以使用这种语言编写命令行脚本，具有高级 PHP 编码技能的程序员也可以使用它来开发桌面应用程序。
+对于初学者来说， PHP被认为是一种相对容易学习的语言。PHP 专业人员可以访问几个专门的在线社区，从而可以轻松获得支持和问题解答。
+C#
+由 Microsoft 开发，C# 在 2000 年代因支持面向对象编程的概念而声名鹊起。它是 .NET 框架最常用的编程语言之一。C# 的创建者 Anders Hejlsberg 说这种语言更像 C++ 而不是 Java。
+C#最适合 Windows、Android 和 iOS 上的应用程序，因为它需要集成开发环境产品 Microsoft Visual C++ 的帮助。C# 用于多个流行网站的后端，如 Bing、Dell、Visual Studio 和 MarketWatch。
+Swift
+几年前，Swift 在流行编程语言的月度 TIOBE 指数排名中进入前 10 名。Apple 于 2014 年为 Linux 和 Mac 应用程序开发了 Swift。
+Swift 是一种易于学习的开源编程语言，它几乎支持编程语言 Objective-C 的所有内容。与其他编程语言相比，Swift 需要更少的编码技能，并且可以与 IBM Swift Sandbox 和 IBM Bluemix 一起使用。
+Swift 用于流行的 iOS 应用程序，如 WordPress、Mozilla Firefox、SoundCloud，甚至用于游戏 Flappy Bird。
+R
+R是一种开源语言，本质上是 S 语言的不同版本。开发人员为 S 编写的大部分代码无需修改即可在 R 上运行。
+用 R 构建的应用程序用于处理统计数据，包括线性和非线性建模、计算、测试、可视化和分析。使用 R 编码的应用程序可以与许多数据库连接并处理结构化和非结构化数据。
+R 的学习曲线适中，对于初学者来说不像本文中的其他一些语言那样容易上手。然而，与其他开源编程语言一样，R拥有一个活跃的开发人员在线社区，这在学习新的编码技能时总是一个加分项。
+Ruby
+如果想从一门以相对简单易学着称的语言开始，可以考虑 Ruby。它开发于 1990 年代，旨在具有更人性化的语法，同时从支持过程和函数式编程符号的面向对象架构的角度来看仍然很灵活。
+用 Ruby 实现的 Web 应用程序框架是 Ruby on Rails（“RoR”）。Ruby 开发人员吹捧它是一种易于编写的语言，而且所需的学习时间相对较短。这些特性导致了一个庞大的 Ruby 开发者社区，以及新手开发者对这门语言越来越感兴趣。
+
+作者：天行无忌
+链接：https://juejin.cn/post/7173310902458908680
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+JavaScript
+JavaScript 是一种高级编程语言，是万维网的核心技术之一。97.8% 的网站都将其用作客户端编程语言。JavaScript 最初仅用于开发 Web 浏览器，但现在它们也用于服务器端网站部署和非 Web 浏览器应用程序。
+Javascript 创建于 1995 年，最初被称为 LiveScript。不过Java当时是一门新潮的语言，所以被标榜为Java的“弟弟”。随着时间的推移，JavaScript 成为了一种完全独立的语言。如今，JavaScript 经常与 Java 混淆，尽管它们之间有一些相似之处，但这两种语言是截然不同的，风格也完全不一样。
+JavaScript 是世界上最流行的编程语言，在各个企业或者组织中都有很高的需求。
+Python
+Python 是当今最流行的编程语言之一，由于其可读性强，初学者很容易学习。它是一种免费的开源编程语言，具有广泛的支持模块和社区开发、易于与 Web 服务集成、用户友好的数据结构和基于 GUI 的桌面应用程序。它是机器学习和深度学习应用程序的流行编程语言。
+Python 用于开发 2D 成像和 3D 动画包，如Blender、Inkscape 和 Autodesk。它还被用于创建流行的视频游戏，包括 Civilization IV、Vegas Trike 和 Toontown。Python 用于 FreeCAD 和 Abacus 等科学和计算应用程序，以及 YouTube、Quora、Pinterest 和 Instagram 等流行网站。
+Go
+Go是 Google 于 2007 年为 API 和 Web 应用程序开发的。由于其简单性以及处理多核和网络系统以及大量代码库的能力，Go 最近已成为增长最快的编程语言之一，是区块链项目的青睐的编程语言之一。
+Go，也称为Golang，是为了满足从事大型项目的程序员的需求而创建的。由于其简单现代的结构和熟悉的语法，它在许多大型 IT 公司中广受欢迎。
+使用 Go 作为编程语言的公司包括 Google、Uber、Twitch 和 Dropbox 等。由于其敏捷性和性能，Go 在数据科学家中也越来越受欢迎。
+Java
+Java是当今最流行的编程语言之一。
+由甲骨文公司所有，这种具有面向对象结构的通用编程语言已成为应用程序的标准，无论平台如何（例如，Mac、Windows、Android、iOS 等），因为它的 Write Once，随处运行 (WORA) 功能。
+因此，Java 因其跨平台（从大型机数据中心到智能手机）的可移植性而得到认可。如今，有超过 30 亿台设备运行使用 Java 构建的应用程序。
+Java广泛用于 Web 和应用程序开发以及大数据。Java 还用于多个流行网站的后端，包括 Google、Amazon、Twitter 和 YouTube。它还广泛用于数百种应用程序中。
+Spring、Struts 和Hibernate等新的 Java 框架也很受欢迎。全球有数百万 Java 开发人员，有数百种学习 Java 的方法。此外，Java 程序员拥有广泛的在线社区并相互支持以解决问题。
+Kotlin
+Kotlin是一种通用编程语言，最初由 JetBrains 于 2011 年开发并发布为 Project Kotlin。第一个版本于 2016 年正式发布。它可与 Java 互操作并支持函数式编程语言。
+Kotlin 广泛用于 Android 应用程序、Web 应用程序、桌面应用程序和服务器端应用程序开发。Kotlin 被构建为比 Java 更好，使用这种语言的人对此深信不疑。
+大多数 Google 应用程序都是基于Kotlin的。一些使用 Kotlin 作为其编程语言的公司包括 Coursera、Pinterest 和 PostMates 等。
+PHP
+PHP是一种创建于 1990 年的开源编程语言。许多 Web 开发人员发现学习 PHP 必不可少，因为这种语言用于构建 Internet 上超过 80% 的网站，包括 Facebook 和 Yahoo 等知名网站。
+程序员主要使用PHP主要是编写服务器端脚本。但开发人员也可以使用这种语言编写命令行脚本，具有高级 PHP 编码技能的程序员也可以使用它来开发桌面应用程序。
+对于初学者来说， PHP被认为是一种相对容易学习的语言。PHP 专业人员可以访问几个专门的在线社区，从而可以轻松获得支持和问题解答。
+C#
+由 Microsoft 开发，C# 在 2000 年代因支持面向对象编程的概念而声名鹊起。它是 .NET 框架最常用的编程语言之一。C# 的创建者 Anders Hejlsberg 说这种语言更像 C++ 而不是 Java。
+C#最适合 Windows、Android 和 iOS 上的应用程序，因为它需要集成开发环境产品 Microsoft Visual C++ 的帮助。C# 用于多个流行网站的后端，如 Bing、Dell、Visual Studio 和 MarketWatch。
+Swift
+几年前，Swift 在流行编程语言的月度 TIOBE 指数排名中进入前 10 名。Apple 于 2014 年为 Linux 和 Mac 应用程序开发了 Swift。
+Swift 是一种易于学习的开源编程语言，它几乎支持编程语言 Objective-C 的所有内容。与其他编程语言相比，Swift 需要更少的编码技能，并且可以与 IBM Swift Sandbox 和 IBM Bluemix 一起使用。
+Swift 用于流行的 iOS 应用程序，如 WordPress、Mozilla Firefox、SoundCloud，甚至用于游戏 Flappy Bird。
+R
+R是一种开源语言，本质上是 S 语言的不同版本。开发人员为 S 编写的大部分代码无需修改即可在 R 上运行。
+用 R 构建的应用程序用于处理统计数据，包括线性和非线性建模、计算、测试、可视化和分析。使用 R 编码的应用程序可以与许多数据库连接并处理结构化和非结构化数据。
+R 的学习曲线适中，对于初学者来说不像本文中的其他一些语言那样容易上手。然而，与其他开源编程语言一样，R拥有一个活跃的开发人员在线社区，这在学习新的编码技能时总是一个加分项。
+Ruby
+如果想从一门以相对简单易学着称的语言开始，可以考虑 Ruby。它开发于 1990 年代，旨在具有更人性化的语法，同时从支持过程和函数式编程符号的面向对象架构的角度来看仍然很灵活。
+用 Ruby 实现的 Web 应用程序框架是 Ruby on Rails（“RoR”）。Ruby 开发人员吹捧它是一种易于编写的语言，而且所需的学习时间相对较短。这些特性导致了一个庞大的 Ruby 开发者社区，以及新手开发者对这门语言越来越感兴趣。
+
+作者：天行无忌
+链接：https://juejin.cn/post/7173310902458908680
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+JavaScript
+JavaScript 是一种高级编程语言，是万维网的核心技术之一。97.8% 的网站都将其用作客户端编程语言。JavaScript 最初仅用于开发 Web 浏览器，但现在它们也用于服务器端网站部署和非 Web 浏览器应用程序。
+Javascript 创建于 1995 年，最初被称为 LiveScript。不过Java当时是一门新潮的语言，所以被标榜为Java的“弟弟”。随着时间的推移，JavaScript 成为了一种完全独立的语言。如今，JavaScript 经常与 Java 混淆，尽管它们之间有一些相似之处，但这两种语言是截然不同的，风格也完全不一样。
+JavaScript 是世界上最流行的编程语言，在各个企业或者组织中都有很高的需求。
+Python
+Python 是当今最流行的编程语言之一，由于其可读性强，初学者很容易学习。它是一种免费的开源编程语言，具有广泛的支持模块和社区开发、易于与 Web 服务集成、用户友好的数据结构和基于 GUI 的桌面应用程序。它是机器学习和深度学习应用程序的流行编程语言。
+Python 用于开发 2D 成像和 3D 动画包，如Blender、Inkscape 和 Autodesk。它还被用于创建流行的视频游戏，包括 Civilization IV、Vegas Trike 和 Toontown。Python 用于 FreeCAD 和 Abacus 等科学和计算应用程序，以及 YouTube、Quora、Pinterest 和 Instagram 等流行网站。
+Go
+Go是 Google 于 2007 年为 API 和 Web 应用程序开发的。由于其简单性以及处理多核和网络系统以及大量代码库的能力，Go 最近已成为增长最快的编程语言之一，是区块链项目的青睐的编程语言之一。
+Go，也称为Golang，是为了满足从事大型项目的程序员的需求而创建的。由于其简单现代的结构和熟悉的语法，它在许多大型 IT 公司中广受欢迎。
+使用 Go 作为编程语言的公司包括 Google、Uber、Twitch 和 Dropbox 等。由于其敏捷性和性能，Go 在数据科学家中也越来越受欢迎。
+Java
+Java是当今最流行的编程语言之一。
+由甲骨文公司所有，这种具有面向对象结构的通用编程语言已成为应用程序的标准，无论平台如何（例如，Mac、Windows、Android、iOS 等），因为它的 Write Once，随处运行 (WORA) 功能。
+因此，Java 因其跨平台（从大型机数据中心到智能手机）的可移植性而得到认可。如今，有超过 30 亿台设备运行使用 Java 构建的应用程序。
+Java广泛用于 Web 和应用程序开发以及大数据。Java 还用于多个流行网站的后端，包括 Google、Amazon、Twitter 和 YouTube。它还广泛用于数百种应用程序中。
+Spring、Struts 和Hibernate等新的 Java 框架也很受欢迎。全球有数百万 Java 开发人员，有数百种学习 Java 的方法。此外，Java 程序员拥有广泛的在线社区并相互支持以解决问题。
+Kotlin
+Kotlin是一种通用编程语言，最初由 JetBrains 于 2011 年开发并发布为 Project Kotlin。第一个版本于 2016 年正式发布。它可与 Java 互操作并支持函数式编程语言。
+Kotlin 广泛用于 Android 应用程序、Web 应用程序、桌面应用程序和服务器端应用程序开发。Kotlin 被构建为比 Java 更好，使用这种语言的人对此深信不疑。
+大多数 Google 应用程序都是基于Kotlin的。一些使用 Kotlin 作为其编程语言的公司包括 Coursera、Pinterest 和 PostMates 等。
+PHP
+PHP是一种创建于 1990 年的开源编程语言。许多 Web 开发人员发现学习 PHP 必不可少，因为这种语言用于构建 Internet 上超过 80% 的网站，包括 Facebook 和 Yahoo 等知名网站。
+程序员主要使用PHP主要是编写服务器端脚本。但开发人员也可以使用这种语言编写命令行脚本，具有高级 PHP 编码技能的程序员也可以使用它来开发桌面应用程序。
+对于初学者来说， PHP被认为是一种相对容易学习的语言。PHP 专业人员可以访问几个专门的在线社区，从而可以轻松获得支持和问题解答。
+C#
+由 Microsoft 开发，C# 在 2000 年代因支持面向对象编程的概念而声名鹊起。它是 .NET 框架最常用的编程语言之一。C# 的创建者 Anders Hejlsberg 说这种语言更像 C++ 而不是 Java。
+C#最适合 Windows、Android 和 iOS 上的应用程序，因为它需要集成开发环境产品 Microsoft Visual C++ 的帮助。C# 用于多个流行网站的后端，如 Bing、Dell、Visual Studio 和 MarketWatch。
+Swift
+几年前，Swift 在流行编程语言的月度 TIOBE 指数排名中进入前 10 名。Apple 于 2014 年为 Linux 和 Mac 应用程序开发了 Swift。
+Swift 是一种易于学习的开源编程语言，它几乎支持编程语言 Objective-C 的所有内容。与其他编程语言相比，Swift 需要更少的编码技能，并且可以与 IBM Swift Sandbox 和 IBM Bluemix 一起使用。
+Swift 用于流行的 iOS 应用程序，如 WordPress、Mozilla Firefox、SoundCloud，甚至用于游戏 Flappy Bird。
+R
+R是一种开源语言，本质上是 S 语言的不同版本。开发人员为 S 编写的大部分代码无需修改即可在 R 上运行。
+用 R 构建的应用程序用于处理统计数据，包括线性和非线性建模、计算、测试、可视化和分析。使用 R 编码的应用程序可以与许多数据库连接并处理结构化和非结构化数据。
+R 的学习曲线适中，对于初学者来说不像本文中的其他一些语言那样容易上手。然而，与其他开源编程语言一样，R拥有一个活跃的开发人员在线社区，这在学习新的编码技能时总是一个加分项。
+Ruby
+如果想从一门以相对简单易学着称的语言开始，可以考虑 Ruby。它开发于 1990 年代，旨在具有更人性化的语法，同时从支持过程和函数式编程符号的面向对象架构的角度来看仍然很灵活。
+用 Ruby 实现的 Web 应用程序框架是 Ruby on Rails（“RoR”）。Ruby 开发人员吹捧它是一种易于编写的语言，而且所需的学习时间相对较短。这些特性导致了一个庞大的 Ruby 开发者社区，以及新手开发者对这门语言越来越感兴趣。
+
+作者：天行无忌
+链接：https://juejin.cn/post/7173310902458908680
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+JavaScript
+JavaScript 是一种高级编程语言，是万维网的核心技术之一。97.8% 的网站都将其用作客户端编程语言。JavaScript 最初仅用于开发 Web 浏览器，但现在它们也用于服务器端网站部署和非 Web 浏览器应用程序。
+Javascript 创建于 1995 年，最初被称为 LiveScript。不过Java当时是一门新潮的语言，所以被标榜为Java的“弟弟”。随着时间的推移，JavaScript 成为了一种完全独立的语言。如今，JavaScript 经常与 Java 混淆，尽管它们之间有一些相似之处，但这两种语言是截然不同的，风格也完全不一样。
+JavaScript 是世界上最流行的编程语言，在各个企业或者组织中都有很高的需求。
+Python
+Python 是当今最流行的编程语言之一，由于其可读性强，初学者很容易学习。它是一种免费的开源编程语言，具有广泛的支持模块和社区开发、易于与 Web 服务集成、用户友好的数据结构和基于 GUI 的桌面应用程序。它是机器学习和深度学习应用程序的流行编程语言。
+Python 用于开发 2D 成像和 3D 动画包，如Blender、Inkscape 和 Autodesk。它还被用于创建流行的视频游戏，包括 Civilization IV、Vegas Trike 和 Toontown。Python 用于 FreeCAD 和 Abacus 等科学和计算应用程序，以及 YouTube、Quora、Pinterest 和 Instagram 等流行网站。
+Go
+Go是 Google 于 2007 年为 API 和 Web 应用程序开发的。由于其简单性以及处理多核和网络系统以及大量代码库的能力，Go 最近已成为增长最快的编程语言之一，是区块链项目的青睐的编程语言之一。
+Go，也称为Golang，是为了满足从事大型项目的程序员的需求而创建的。由于其简单现代的结构和熟悉的语法，它在许多大型 IT 公司中广受欢迎。
+使用 Go 作为编程语言的公司包括 Google、Uber、Twitch 和 Dropbox 等。由于其敏捷性和性能，Go 在数据科学家中也越来越受欢迎。
+Java
+Java是当今最流行的编程语言之一。
+由甲骨文公司所有，这种具有面向对象结构的通用编程语言已成为应用程序的标准，无论平台如何（例如，Mac、Windows、Android、iOS 等），因为它的 Write Once，随处运行 (WORA) 功能。
+因此，Java 因其跨平台（从大型机数据中心到智能手机）的可移植性而得到认可。如今，有超过 30 亿台设备运行使用 Java 构建的应用程序。
+Java广泛用于 Web 和应用程序开发以及大数据。Java 还用于多个流行网站的后端，包括 Google、Amazon、Twitter 和 YouTube。它还广泛用于数百种应用程序中。
+Spring、Struts 和Hibernate等新的 Java 框架也很受欢迎。全球有数百万 Java 开发人员，有数百种学习 Java 的方法。此外，Java 程序员拥有广泛的在线社区并相互支持以解决问题。
+Kotlin
+Kotlin是一种通用编程语言，最初由 JetBrains 于 2011 年开发并发布为 Project Kotlin。第一个版本于 2016 年正式发布。它可与 Java 互操作并支持函数式编程语言。
+Kotlin 广泛用于 Android 应用程序、Web 应用程序、桌面应用程序和服务器端应用程序开发。Kotlin 被构建为比 Java 更好，使用这种语言的人对此深信不疑。
+大多数 Google 应用程序都是基于Kotlin的。一些使用 Kotlin 作为其编程语言的公司包括 Coursera、Pinterest 和 PostMates 等。
+PHP
+PHP是一种创建于 1990 年的开源编程语言。许多 Web 开发人员发现学习 PHP 必不可少，因为这种语言用于构建 Internet 上超过 80% 的网站，包括 Facebook 和 Yahoo 等知名网站。
+程序员主要使用PHP主要是编写服务器端脚本。但开发人员也可以使用这种语言编写命令行脚本，具有高级 PHP 编码技能的程序员也可以使用它来开发桌面应用程序。
+对于初学者来说， PHP被认为是一种相对容易学习的语言。PHP 专业人员可以访问几个专门的在线社区，从而可以轻松获得支持和问题解答。
+C#
+由 Microsoft 开发，C# 在 2000 年代因支持面向对象编程的概念而声名鹊起。它是 .NET 框架最常用的编程语言之一。C# 的创建者 Anders Hejlsberg 说这种语言更像 C++ 而不是 Java。
+C#最适合 Windows、Android 和 iOS 上的应用程序，因为它需要集成开发环境产品 Microsoft Visual C++ 的帮助。C# 用于多个流行网站的后端，如 Bing、Dell、Visual Studio 和 MarketWatch。
+Swift
+几年前，Swift 在流行编程语言的月度 TIOBE 指数排名中进入前 10 名。Apple 于 2014 年为 Linux 和 Mac 应用程序开发了 Swift。
+Swift 是一种易于学习的开源编程语言，它几乎支持编程语言 Objective-C 的所有内容。与其他编程语言相比，Swift 需要更少的编码技能，并且可以与 IBM Swift Sandbox 和 IBM Bluemix 一起使用。
+Swift 用于流行的 iOS 应用程序，如 WordPress、Mozilla Firefox、SoundCloud，甚至用于游戏 Flappy Bird。
+R
+R是一种开源语言，本质上是 S 语言的不同版本。开发人员为 S 编写的大部分代码无需修改即可在 R 上运行。
+用 R 构建的应用程序用于处理统计数据，包括线性和非线性建模、计算、测试、可视化和分析。使用 R 编码的应用程序可以与许多数据库连接并处理结构化和非结构化数据。
+R 的学习曲线适中，对于初学者来说不像本文中的其他一些语言那样容易上手。然而，与其他开源编程语言一样，R拥有一个活跃的开发人员在线社区，这在学习新的编码技能时总是一个加分项。
+Ruby
+如果想从一门以相对简单易学着称的语言开始，可以考虑 Ruby。它开发于 1990 年代，旨在具有更人性化的语法，同时从支持过程和函数式编程符号的面向对象架构的角度来看仍然很灵活。
+用 Ruby 实现的 Web 应用程序框架是 Ruby on Rails（“RoR”）。Ruby 开发人员吹捧它是一种易于编写的语言，而且所需的学习时间相对较短。这些特性导致了一个庞大的 Ruby 开发者社区，以及新手开发者对这门语言越来越感兴趣。
+
+作者：天行无忌
+链接：https://juejin.cn/post/7173310902458908680
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+JavaScript
+JavaScript 是一种高级编程语言，是万维网的核心技术之一。97.8% 的网站都将其用作客户端编程语言。JavaScript 最初仅用于开发 Web 浏览器，但现在它们也用于服务器端网站部署和非 Web 浏览器应用程序。
+Javascript 创建于 1995 年，最初被称为 LiveScript。不过Java当时是一门新潮的语言，所以被标榜为Java的“弟弟”。随着时间的推移，JavaScript 成为了一种完全独立的语言。如今，JavaScript 经常与 Java 混淆，尽管它们之间有一些相似之处，但这两种语言是截然不同的，风格也完全不一样。
+JavaScript 是世界上最流行的编程语言，在各个企业或者组织中都有很高的需求。
+Python
+Python 是当今最流行的编程语言之一，由于其可读性强，初学者很容易学习。它是一种免费的开源编程语言，具有广泛的支持模块和社区开发、易于与 Web 服务集成、用户友好的数据结构和基于 GUI 的桌面应用程序。它是机器学习和深度学习应用程序的流行编程语言。
+Python 用于开发 2D 成像和 3D 动画包，如Blender、Inkscape 和 Autodesk。它还被用于创建流行的视频游戏，包括 Civilization IV、Vegas Trike 和 Toontown。Python 用于 FreeCAD 和 Abacus 等科学和计算应用程序，以及 YouTube、Quora、Pinterest 和 Instagram 等流行网站。
+Go
+Go是 Google 于 2007 年为 API 和 Web 应用程序开发的。由于其简单性以及处理多核和网络系统以及大量代码库的能力，Go 最近已成为增长最快的编程语言之一，是区块链项目的青睐的编程语言之一。
+Go，也称为Golang，是为了满足从事大型项目的程序员的需求而创建的。由于其简单现代的结构和熟悉的语法，它在许多大型 IT 公司中广受欢迎。
+使用 Go 作为编程语言的公司包括 Google、Uber、Twitch 和 Dropbox 等。由于其敏捷性和性能，Go 在数据科学家中也越来越受欢迎。
+Java
+Java是当今最流行的编程语言之一。
+由甲骨文公司所有，这种具有面向对象结构的通用编程语言已成为应用程序的标准，无论平台如何（例如，Mac、Windows、Android、iOS 等），因为它的 Write Once，随处运行 (WORA) 功能。
+因此，Java 因其跨平台（从大型机数据中心到智能手机）的可移植性而得到认可。如今，有超过 30 亿台设备运行使用 Java 构建的应用程序。
+Java广泛用于 Web 和应用程序开发以及大数据。Java 还用于多个流行网站的后端，包括 Google、Amazon、Twitter 和 YouTube。它还广泛用于数百种应用程序中。
+Spring、Struts 和Hibernate等新的 Java 框架也很受欢迎。全球有数百万 Java 开发人员，有数百种学习 Java 的方法。此外，Java 程序员拥有广泛的在线社区并相互支持以解决问题。
+Kotlin
+Kotlin是一种通用编程语言，最初由 JetBrains 于 2011 年开发并发布为 Project Kotlin。第一个版本于 2016 年正式发布。它可与 Java 互操作并支持函数式编程语言。
+Kotlin 广泛用于 Android 应用程序、Web 应用程序、桌面应用程序和服务器端应用程序开发。Kotlin 被构建为比 Java 更好，使用这种语言的人对此深信不疑。
+大多数 Google 应用程序都是基于Kotlin的。一些使用 Kotlin 作为其编程语言的公司包括 Coursera、Pinterest 和 PostMates 等。
+PHP
+PHP是一种创建于 1990 年的开源编程语言。许多 Web 开发人员发现学习 PHP 必不可少，因为这种语言用于构建 Internet 上超过 80% 的网站，包括 Facebook 和 Yahoo 等知名网站。
+程序员主要使用PHP主要是编写服务器端脚本。但开发人员也可以使用这种语言编写命令行脚本，具有高级 PHP 编码技能的程序员也可以使用它来开发桌面应用程序。
+对于初学者来说， PHP被认为是一种相对容易学习的语言。PHP 专业人员可以访问几个专门的在线社区，从而可以轻松获得支持和问题解答。
+C#
+由 Microsoft 开发，C# 在 2000 年代因支持面向对象编程的概念而声名鹊起。它是 .NET 框架最常用的编程语言之一。C# 的创建者 Anders Hejlsberg 说这种语言更像 C++ 而不是 Java。
+C#最适合 Windows、Android 和 iOS 上的应用程序，因为它需要集成开发环境产品 Microsoft Visual C++ 的帮助。C# 用于多个流行网站的后端，如 Bing、Dell、Visual Studio 和 MarketWatch。
+Swift
+几年前，Swift 在流行编程语言的月度 TIOBE 指数排名中进入前 10 名。Apple 于 2014 年为 Linux 和 Mac 应用程序开发了 Swift。
+Swift 是一种易于学习的开源编程语言，它几乎支持编程语言 Objective-C 的所有内容。与其他编程语言相比，Swift 需要更少的编码技能，并且可以与 IBM Swift Sandbox 和 IBM Bluemix 一起使用。
+Swift 用于流行的 iOS 应用程序，如 WordPress、Mozilla Firefox、SoundCloud，甚至用于游戏 Flappy Bird。
+R
+R是一种开源语言，本质上是 S 语言的不同版本。开发人员为 S 编写的大部分代码无需修改即可在 R 上运行。
+用 R 构建的应用程序用于处理统计数据，包括线性和非线性建模、计算、测试、可视化和分析。使用 R 编码的应用程序可以与许多数据库连接并处理结构化和非结构化数据。
+R 的学习曲线适中，对于初学者来说不像本文中的其他一些语言那样容易上手。然而，与其他开源编程语言一样，R拥有一个活跃的开发人员在线社区，这在学习新的编码技能时总是一个加分项。
+Ruby
+如果想从一门以相对简单易学着称的语言开始，可以考虑 Ruby。它开发于 1990 年代，旨在具有更人性化的语法，同时从支持过程和函数式编程符号的面向对象架构的角度来看仍然很灵活。
+用 Ruby 实现的 Web 应用程序框架是 Ruby on Rails（“RoR”）。Ruby 开发人员吹捧它是一种易于编写的语言，而且所需的学习时间相对较短。这些特性导致了一个庞大的 Ruby 开发者社区，以及新手开发者对这门语言越来越感兴趣。
+
+作者：天行无忌
+链接：https://juejin.cn/post/7173310902458908680
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+JavaScript
+JavaScript 是一种高级编程语言，是万维网的核心技术之一。97.8% 的网站都将其用作客户端编程语言。JavaScript 最初仅用于开发 Web 浏览器，但现在它们也用于服务器端网站部署和非 Web 浏览器应用程序。
+Javascript 创建于 1995 年，最初被称为 LiveScript。不过Java当时是一门新潮的语言，所以被标榜为Java的“弟弟”。随着时间的推移，JavaScript 成为了一种完全独立的语言。如今，JavaScript 经常与 Java 混淆，尽管它们之间有一些相似之处，但这两种语言是截然不同的，风格也完全不一样。
+JavaScript 是世界上最流行的编程语言，在各个企业或者组织中都有很高的需求。
+Python
+Python 是当今最流行的编程语言之一，由于其可读性强，初学者很容易学习。它是一种免费的开源编程语言，具有广泛的支持模块和社区开发、易于与 Web 服务集成、用户友好的数据结构和基于 GUI 的桌面应用程序。它是机器学习和深度学习应用程序的流行编程语言。
+Python 用于开发 2D 成像和 3D 动画包，如Blender、Inkscape 和 Autodesk。它还被用于创建流行的视频游戏，包括 Civilization IV、Vegas Trike 和 Toontown。Python 用于 FreeCAD 和 Abacus 等科学和计算应用程序，以及 YouTube、Quora、Pinterest 和 Instagram 等流行网站。
+Go
+Go是 Google 于 2007 年为 API 和 Web 应用程序开发的。由于其简单性以及处理多核和网络系统以及大量代码库的能力，Go 最近已成为增长最快的编程语言之一，是区块链项目的青睐的编程语言之一。
+Go，也称为Golang，是为了满足从事大型项目的程序员的需求而创建的。由于其简单现代的结构和熟悉的语法，它在许多大型 IT 公司中广受欢迎。
+使用 Go 作为编程语言的公司包括 Google、Uber、Twitch 和 Dropbox 等。由于其敏捷性和性能，Go 在数据科学家中也越来越受欢迎。
+Java
+Java是当今最流行的编程语言之一。
+由甲骨文公司所有，这种具有面向对象结构的通用编程语言已成为应用程序的标准，无论平台如何（例如，Mac、Windows、Android、iOS 等），因为它的 Write Once，随处运行 (WORA) 功能。
+因此，Java 因其跨平台（从大型机数据中心到智能手机）的可移植性而得到认可。如今，有超过 30 亿台设备运行使用 Java 构建的应用程序。
+Java广泛用于 Web 和应用程序开发以及大数据。Java 还用于多个流行网站的后端，包括 Google、Amazon、Twitter 和 YouTube。它还广泛用于数百种应用程序中。
+Spring、Struts 和Hibernate等新的 Java 框架也很受欢迎。全球有数百万 Java 开发人员，有数百种学习 Java 的方法。此外，Java 程序员拥有广泛的在线社区并相互支持以解决问题。
+Kotlin
+Kotlin是一种通用编程语言，最初由 JetBrains 于 2011 年开发并发布为 Project Kotlin。第一个版本于 2016 年正式发布。它可与 Java 互操作并支持函数式编程语言。
+Kotlin 广泛用于 Android 应用程序、Web 应用程序、桌面应用程序和服务器端应用程序开发。Kotlin 被构建为比 Java 更好，使用这种语言的人对此深信不疑。
+大多数 Google 应用程序都是基于Kotlin的。一些使用 Kotlin 作为其编程语言的公司包括 Coursera、Pinterest 和 PostMates 等。
+PHP
+PHP是一种创建于 1990 年的开源编程语言。许多 Web 开发人员发现学习 PHP 必不可少，因为这种语言用于构建 Internet 上超过 80% 的网站，包括 Facebook 和 Yahoo 等知名网站。
+程序员主要使用PHP主要是编写服务器端脚本。但开发人员也可以使用这种语言编写命令行脚本，具有高级 PHP 编码技能的程序员也可以使用它来开发桌面应用程序。
+对于初学者来说， PHP被认为是一种相对容易学习的语言。PHP 专业人员可以访问几个专门的在线社区，从而可以轻松获得支持和问题解答。
+C#
+由 Microsoft 开发，C# 在 2000 年代因支持面向对象编程的概念而声名鹊起。它是 .NET 框架最常用的编程语言之一。C# 的创建者 Anders Hejlsberg 说这种语言更像 C++ 而不是 Java。
+C#最适合 Windows、Android 和 iOS 上的应用程序，因为它需要集成开发环境产品 Microsoft Visual C++ 的帮助。C# 用于多个流行网站的后端，如 Bing、Dell、Visual Studio 和 MarketWatch。
+Swift
+几年前，Swift 在流行编程语言的月度 TIOBE 指数排名中进入前 10 名。Apple 于 2014 年为 Linux 和 Mac 应用程序开发了 Swift。
+Swift 是一种易于学习的开源编程语言，它几乎支持编程语言 Objective-C 的所有内容。与其他编程语言相比，Swift 需要更少的编码技能，并且可以与 IBM Swift Sandbox 和 IBM Bluemix 一起使用。
+Swift 用于流行的 iOS 应用程序，如 WordPress、Mozilla Firefox、SoundCloud，甚至用于游戏 Flappy Bird。
+R
+R是一种开源语言，本质上是 S 语言的不同版本。开发人员为 S 编写的大部分代码无需修改即可在 R 上运行。
+用 R 构建的应用程序用于处理统计数据，包括线性和非线性建模、计算、测试、可视化和分析。使用 R 编码的应用程序可以与许多数据库连接并处理结构化和非结构化数据。
+R 的学习曲线适中，对于初学者来说不像本文中的其他一些语言那样容易上手。然而，与其他开源编程语言一样，R拥有一个活跃的开发人员在线社区，这在学习新的编码技能时总是一个加分项。
+Ruby
+如果想从一门以相对简单易学着称的语言开始，可以考虑 Ruby。它开发于 1990 年代，旨在具有更人性化的语法，同时从支持过程和函数式编程符号的面向对象架构的角度来看仍然很灵活。
+用 Ruby 实现的 Web 应用程序框架是 Ruby on Rails（“RoR”）。Ruby 开发人员吹捧它是一种易于编写的语言，而且所需的学习时间相对较短。这些特性导致了一个庞大的 Ruby 开发者社区，以及新手开发者对这门语言越来越感兴趣。
+
+作者：天行无忌
+链接：https://juejin.cn/post/7173310902458908680
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+JavaScript
+JavaScript 是一种高级编程语言，是万维网的核心技术之一。97.8% 的网站都将其用作客户端编程语言。JavaScript 最初仅用于开发 Web 浏览器，但现在它们也用于服务器端网站部署和非 Web 浏览器应用程序。
+Javascript 创建于 1995 年，最初被称为 LiveScript。不过Java当时是一门新潮的语言，所以被标榜为Java的“弟弟”。随着时间的推移，JavaScript 成为了一种完全独立的语言。如今，JavaScript 经常与 Java 混淆，尽管它们之间有一些相似之处，但这两种语言是截然不同的，风格也完全不一样。
+JavaScript 是世界上最流行的编程语言，在各个企业或者组织中都有很高的需求。
+Python
+Python 是当今最流行的编程语言之一，由于其可读性强，初学者很容易学习。它是一种免费的开源编程语言，具有广泛的支持模块和社区开发、易于与 Web 服务集成、用户友好的数据结构和基于 GUI 的桌面应用程序。它是机器学习和深度学习应用程序的流行编程语言。
+Python 用于开发 2D 成像和 3D 动画包，如Blender、Inkscape 和 Autodesk。它还被用于创建流行的视频游戏，包括 Civilization IV、Vegas Trike 和 Toontown。Python 用于 FreeCAD 和 Abacus 等科学和计算应用程序，以及 YouTube、Quora、Pinterest 和 Instagram 等流行网站。
+Go
+Go是 Google 于 2007 年为 API 和 Web 应用程序开发的。由于其简单性以及处理多核和网络系统以及大量代码库的能力，Go 最近已成为增长最快的编程语言之一，是区块链项目的青睐的编程语言之一。
+Go，也称为Golang，是为了满足从事大型项目的程序员的需求而创建的。由于其简单现代的结构和熟悉的语法，它在许多大型 IT 公司中广受欢迎。
+使用 Go 作为编程语言的公司包括 Google、Uber、Twitch 和 Dropbox 等。由于其敏捷性和性能，Go 在数据科学家中也越来越受欢迎。
+Java
+Java是当今最流行的编程语言之一。
+由甲骨文公司所有，这种具有面向对象结构的通用编程语言已成为应用程序的标准，无论平台如何（例如，Mac、Windows、Android、iOS 等），因为它的 Write Once，随处运行 (WORA) 功能。
+因此，Java 因其跨平台（从大型机数据中心到智能手机）的可移植性而得到认可。如今，有超过 30 亿台设备运行使用 Java 构建的应用程序。
+Java广泛用于 Web 和应用程序开发以及大数据。Java 还用于多个流行网站的后端，包括 Google、Amazon、Twitter 和 YouTube。它还广泛用于数百种应用程序中。
+Spring、Struts 和Hibernate等新的 Java 框架也很受欢迎。全球有数百万 Java 开发人员，有数百种学习 Java 的方法。此外，Java 程序员拥有广泛的在线社区并相互支持以解决问题。
+Kotlin
+Kotlin是一种通用编程语言，最初由 JetBrains 于 2011 年开发并发布为 Project Kotlin。第一个版本于 2016 年正式发布。它可与 Java 互操作并支持函数式编程语言。
+Kotlin 广泛用于 Android 应用程序、Web 应用程序、桌面应用程序和服务器端应用程序开发。Kotlin 被构建为比 Java 更好，使用这种语言的人对此深信不疑。
+大多数 Google 应用程序都是基于Kotlin的。一些使用 Kotlin 作为其编程语言的公司包括 Coursera、Pinterest 和 PostMates 等。
+PHP
+PHP是一种创建于 1990 年的开源编程语言。许多 Web 开发人员发现学习 PHP 必不可少，因为这种语言用于构建 Internet 上超过 80% 的网站，包括 Facebook 和 Yahoo 等知名网站。
+程序员主要使用PHP主要是编写服务器端脚本。但开发人员也可以使用这种语言编写命令行脚本，具有高级 PHP 编码技能的程序员也可以使用它来开发桌面应用程序。
+对于初学者来说， PHP被认为是一种相对容易学习的语言。PHP 专业人员可以访问几个专门的在线社区，从而可以轻松获得支持和问题解答。
+C#
+由 Microsoft 开发，C# 在 2000 年代因支持面向对象编程的概念而声名鹊起。它是 .NET 框架最常用的编程语言之一。C# 的创建者 Anders Hejlsberg 说这种语言更像 C++ 而不是 Java。
+C#最适合 Windows、Android 和 iOS 上的应用程序，因为它需要集成开发环境产品 Microsoft Visual C++ 的帮助。C# 用于多个流行网站的后端，如 Bing、Dell、Visual Studio 和 MarketWatch。
+Swift
+几年前，Swift 在流行编程语言的月度 TIOBE 指数排名中进入前 10 名。Apple 于 2014 年为 Linux 和 Mac 应用程序开发了 Swift。
+Swift 是一种易于学习的开源编程语言，它几乎支持编程语言 Objective-C 的所有内容。与其他编程语言相比，Swift 需要更少的编码技能，并且可以与 IBM Swift Sandbox 和 IBM Bluemix 一起使用。
+Swift 用于流行的 iOS 应用程序，如 WordPress、Mozilla Firefox、SoundCloud，甚至用于游戏 Flappy Bird。
+R
+R是一种开源语言，本质上是 S 语言的不同版本。开发人员为 S 编写的大部分代码无需修改即可在 R 上运行。
+用 R 构建的应用程序用于处理统计数据，包括线性和非线性建模、计算、测试、可视化和分析。使用 R 编码的应用程序可以与许多数据库连接并处理结构化和非结构化数据。
+R 的学习曲线适中，对于初学者来说不像本文中的其他一些语言那样容易上手。然而，与其他开源编程语言一样，R拥有一个活跃的开发人员在线社区，这在学习新的编码技能时总是一个加分项。
+Ruby
+如果想从一门以相对简单易学着称的语言开始，可以考虑 Ruby。它开发于 1990 年代，旨在具有更人性化的语法，同时从支持过程和函数式编程符号的面向对象架构的角度来看仍然很灵活。
+用 Ruby 实现的 Web 应用程序框架是 Ruby on Rails（“RoR”）。Ruby 开发人员吹捧它是一种易于编写的语言，而且所需的学习时间相对较短。这些特性导致了一个庞大的 Ruby 开发者社区，以及新手开发者对这门语言越来越感兴趣。
+
+作者：天行无忌
+链接：https://juejin.cn/post/7173310902458908680
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+JavaScript
+JavaScript 是一种高级编程语言，是万维网的核心技术之一。97.8% 的网站都将其用作客户端编程语言。JavaScript 最初仅用于开发 Web 浏览器，但现在它们也用于服务器端网站部署和非 Web 浏览器应用程序。
+Javascript 创建于 1995 年，最初被称为 LiveScript。不过Java当时是一门新潮的语言，所以被标榜为Java的“弟弟”。随着时间的推移，JavaScript 成为了一种完全独立的语言。如今，JavaScript 经常与 Java 混淆，尽管它们之间有一些相似之处，但这两种语言是截然不同的，风格也完全不一样。
+JavaScript 是世界上最流行的编程语言，在各个企业或者组织中都有很高的需求。
+Python
+Python 是当今最流行的编程语言之一，由于其可读性强，初学者很容易学习。它是一种免费的开源编程语言，具有广泛的支持模块和社区开发、易于与 Web 服务集成、用户友好的数据结构和基于 GUI 的桌面应用程序。它是机器学习和深度学习应用程序的流行编程语言。
+Python 用于开发 2D 成像和 3D 动画包，如Blender、Inkscape 和 Autodesk。它还被用于创建流行的视频游戏，包括 Civilization IV、Vegas Trike 和 Toontown。Python 用于 FreeCAD 和 Abacus 等科学和计算应用程序，以及 YouTube、Quora、Pinterest 和 Instagram 等流行网站。
+Go
+Go是 Google 于 2007 年为 API 和 Web 应用程序开发的。由于其简单性以及处理多核和网络系统以及大量代码库的能力，Go 最近已成为增长最快的编程语言之一，是区块链项目的青睐的编程语言之一。
+Go，也称为Golang，是为了满足从事大型项目的程序员的需求而创建的。由于其简单现代的结构和熟悉的语法，它在许多大型 IT 公司中广受欢迎。
+使用 Go 作为编程语言的公司包括 Google、Uber、Twitch 和 Dropbox 等。由于其敏捷性和性能，Go 在数据科学家中也越来越受欢迎。
+Java
+Java是当今最流行的编程语言之一。
+由甲骨文公司所有，这种具有面向对象结构的通用编程语言已成为应用程序的标准，无论平台如何（例如，Mac、Windows、Android、iOS 等），因为它的 Write Once，随处运行 (WORA) 功能。
+因此，Java 因其跨平台（从大型机数据中心到智能手机）的可移植性而得到认可。如今，有超过 30 亿台设备运行使用 Java 构建的应用程序。
+Java广泛用于 Web 和应用程序开发以及大数据。Java 还用于多个流行网站的后端，包括 Google、Amazon、Twitter 和 YouTube。它还广泛用于数百种应用程序中。
+Spring、Struts 和Hibernate等新的 Java 框架也很受欢迎。全球有数百万 Java 开发人员，有数百种学习 Java 的方法。此外，Java 程序员拥有广泛的在线社区并相互支持以解决问题。
+Kotlin
+Kotlin是一种通用编程语言，最初由 JetBrains 于 2011 年开发并发布为 Project Kotlin。第一个版本于 2016 年正式发布。它可与 Java 互操作并支持函数式编程语言。
+Kotlin 广泛用于 Android 应用程序、Web 应用程序、桌面应用程序和服务器端应用程序开发。Kotlin 被构建为比 Java 更好，使用这种语言的人对此深信不疑。
+大多数 Google 应用程序都是基于Kotlin的。一些使用 Kotlin 作为其编程语言的公司包括 Coursera、Pinterest 和 PostMates 等。
+PHP
+PHP是一种创建于 1990 年的开源编程语言。许多 Web 开发人员发现学习 PHP 必不可少，因为这种语言用于构建 Internet 上超过 80% 的网站，包括 Facebook 和 Yahoo 等知名网站。
+程序员主要使用PHP主要是编写服务器端脚本。但开发人员也可以使用这种语言编写命令行脚本，具有高级 PHP 编码技能的程序员也可以使用它来开发桌面应用程序。
+对于初学者来说， PHP被认为是一种相对容易学习的语言。PHP 专业人员可以访问几个专门的在线社区，从而可以轻松获得支持和问题解答。
+C#
+由 Microsoft 开发，C# 在 2000 年代因支持面向对象编程的概念而声名鹊起。它是 .NET 框架最常用的编程语言之一。C# 的创建者 Anders Hejlsberg 说这种语言更像 C++ 而不是 Java。
+C#最适合 Windows、Android 和 iOS 上的应用程序，因为它需要集成开发环境产品 Microsoft Visual C++ 的帮助。C# 用于多个流行网站的后端，如 Bing、Dell、Visual Studio 和 MarketWatch。
+Swift
+几年前，Swift 在流行编程语言的月度 TIOBE 指数排名中进入前 10 名。Apple 于 2014 年为 Linux 和 Mac 应用程序开发了 Swift。
+Swift 是一种易于学习的开源编程语言，它几乎支持编程语言 Objective-C 的所有内容。与其他编程语言相比，Swift 需要更少的编码技能，并且可以与 IBM Swift Sandbox 和 IBM Bluemix 一起使用。
+Swift 用于流行的 iOS 应用程序，如 WordPress、Mozilla Firefox、SoundCloud，甚至用于游戏 Flappy Bird。
+R
+R是一种开源语言，本质上是 S 语言的不同版本。开发人员为 S 编写的大部分代码无需修改即可在 R 上运行。
+用 R 构建的应用程序用于处理统计数据，包括线性和非线性建模、计算、测试、可视化和分析。使用 R 编码的应用程序可以与许多数据库连接并处理结构化和非结构化数据。
+R 的学习曲线适中，对于初学者来说不像本文中的其他一些语言那样容易上手。然而，与其他开源编程语言一样，R拥有一个活跃的开发人员在线社区，这在学习新的编码技能时总是一个加分项。
+Ruby
+如果想从一门以相对简单易学着称的语言开始，可以考虑 Ruby。它开发于 1990 年代，旨在具有更人性化的语法，同时从支持过程和函数式编程符号的面向对象架构的角度来看仍然很灵活。
+用 Ruby 实现的 Web 应用程序框架是 Ruby on Rails（“RoR”）。Ruby 开发人员吹捧它是一种易于编写的语言，而且所需的学习时间相对较短。这些特性导致了一个庞大的 Ruby 开发者社区，以及新手开发者对这门语言越来越感兴趣。
+
+作者：天行无忌
+链接：https://juejin.cn/post/7173310902458908680
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
