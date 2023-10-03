@@ -34,7 +34,7 @@ urls_dic = {
 
 
 # 歌单获取
-def songs(name='热歌榜', url=urls_dic['热歌榜']):
+def songs(name=list(urls_dic.keys())[0], url=urls_dic['热歌榜']):
     global num
     num = 1
     res = session.get(url, headers=headers)
@@ -90,7 +90,7 @@ def web_music(vlues):
                         finally:
                             driver = None
                     finally:
-                        time.sleep(2)
+                        # time.sleep(2)
                         input('按任意键取消播放-->>')
                         print(f'{i[0][1]}   播放结束！'.center(15, '-'))
                         driver.quit()
@@ -103,13 +103,13 @@ def web_music(vlues):
 
 # 主函数
 def main():
-    global c
+    global c, music_link
     while True:
         print('默认为热歌榜'.center(30, '-'))
         for key in func_dic:
             print(key, func_dic[key][0])
         opt = input('请输入功能编码 >>>').strip()
-        if opt == 'q':
+        if opt == 'q' or opt == 'Q':
             break
         if opt == '5':
             if c != 0:

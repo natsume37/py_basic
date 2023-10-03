@@ -8,7 +8,7 @@ import pymysql
 # 打开数据库连接
 db = pymysql.connect(host='localhost',
                      user='root',
-                     password='xiamu',
+                     password='123',
                      )
 # 使用 cursor() 方法创建一个游标对象 cursor
 cursor = db.cursor()
