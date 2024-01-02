@@ -58,7 +58,7 @@ def read_unread_messages():
             wx.SendKeys('{Ctrl}r', waitTime=1)
 
         # 等待
-        time.sleep(0.05)
+        time.sleep(0.1)
 
 
 if __name__ == "__main__":
