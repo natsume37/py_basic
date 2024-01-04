@@ -13,7 +13,7 @@ def chat_auto(mag):
     payload = {
         "content": f"{mag}",
         "type": 1,
-        "from": "黄蕊",
+        "from": "黄兄",
     }
 
     res = requests.post('https://api.mlyai.com/reply', headers=headers, json=payload)
@@ -50,8 +50,8 @@ def read_unread_messages():
             print("未读消息:", last_msg)
 
             # 处理未读消息，这里可以根据需求进行进一步处理
-            to_chat = chat_auto(last_msg)
-            SendKeys(to_chat, waitTime=1)
+            to_msg = chat_auto(last_msg)
+            SendKeys(to_msg, waitTime=1)
             SendKeys('{Enter}', waitTime=1)
 
             # 退回主页
